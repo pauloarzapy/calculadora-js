@@ -1,0 +1,27 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Aplicacion de prueba",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test":"jest" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloarzapy/calculadora-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauloarzapy/calculadora-js/issues"
+  },
+  "homepage": "https://github.com/pauloarzapy/calculadora-js#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
